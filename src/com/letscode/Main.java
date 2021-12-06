@@ -2,16 +2,24 @@ package com.letscode;
 
 import com.letscode.Class01.DaysOfWeek;
 import com.letscode.Class01.MonthsOfTheYear;
+import com.letscode.Class02.InputData;
+
+import java.awt.im.InputContext;
 
 public class Main {
 
     public static void main(String[] args) {
 
+        /*AULA 01
         DaysOfWeek classDay = DaysOfWeek.Monday; //Object type variable
 
         MonthsOfTheYear classMonth = MonthsOfTheYear.December;
 
         System.out.println("Class on (" + classDay + ") of month (" + classMonth + ")");
+        */
+
+        //AULA 02
+        InputData teste = new InputData();
 
     }
 }
