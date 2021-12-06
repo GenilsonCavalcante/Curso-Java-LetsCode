@@ -1,7 +1,7 @@
 package com.letscode;
 
-import com.letscode.Aula01.DaysOfWeek;
-import com.letscode.Aula01.MonthsOfTheYear;
+import com.letscode.Class01.DaysOfWeek;
+import com.letscode.Class01.MonthsOfTheYear;
 
 public class Main {
 
