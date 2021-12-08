@@ -1,35 +1,18 @@
 package com.letscode;
 
-import com.letscode.Class03.EntradasESaidas;
+//OBS: Atalho que formata o código: CTRL + ALT + L;
+//OBS: Para remover os import's não mais utilizados: CTRL + ALT + O;
 
+import com.letscode.Class04.MesesDoAno;
 
 public class Main {
 
-    public static void main(String[] args) {
+  public static void main(String[] args) {
 
-        EntradasESaidas classeExterna = new EntradasESaidas();
+    //Condicionais teste = new Condicionais();
+    MesesDoAno teste = new MesesDoAno();
 
-        /*
-        //System.out.printf("'%b'", isPar); //Se o 'b' for maiúsculo, então a saída é em maiúsculo.
-        //Com o printf, podemos trazer a ideia de formatação.
+  }
 
-        String nome = "Genilson";
-        int idade = 19;
-        float altura = 1.70f;
-        String escola = "IFPB";
-        String cidade = "Lastro";
-
-
-        System.out.printf("O meu nome é %s, tenho %d%n e minha altura é de %.2f%n", nome, idade, altura);//O %n, serve
-        // para quebrar uma linha.
-
-        System.out.printf("A minha escola é %s, e moro no %s ", escola, cidade);
-
-        System.out.printf("Hello, %s.", args[0]);//Recebendo o primeiro argumento digitado pelo usuário ao executar a
-        // classe Mais.java
-        */
-
-
-    }
 }
 
