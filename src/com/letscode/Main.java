@@ -6,6 +6,7 @@ package com.letscode;
 import com.letscode.Class04.EstruturasDeRepeticao;
 import com.letscode.Class04.MediaDeNotas;
 import com.letscode.Class04.MesesDoAno;
+import com.letscode.Class05.Array;
 
 public class Main {
 
@@ -14,7 +15,8 @@ public class Main {
     //Condicionais teste = new Condicionais();
     //MesesDoAno teste = new MesesDoAno();
     //EstruturasDeRepeticao teste = new EstruturasDeRepeticao();
-    MediaDeNotas teste = new MediaDeNotas();
+    //MediaDeNotas teste = new MediaDeNotas();
+    Array teste = new Array();
 
   }
 
