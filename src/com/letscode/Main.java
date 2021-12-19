@@ -7,6 +7,11 @@ import com.letscode.Class04.EstruturasDeRepeticao;
 import com.letscode.Class04.MediaDeNotas;
 import com.letscode.Class04.MesesDoAno;
 import com.letscode.Class05.Array;
+import com.letscode.Class05.ListFruits;
+import com.letscode.Class05.InvertedWord;
+import com.letscode.Class05.NumbersOddAndPair;
+import com.letscode.Class05.MaxAndMinNumbers;
+import com.letscode.Class05.BigName;
 
 public class Main {
 
@@ -16,7 +21,13 @@ public class Main {
     //MesesDoAno teste = new MesesDoAno();
     //EstruturasDeRepeticao teste = new EstruturasDeRepeticao();
     //MediaDeNotas teste = new MediaDeNotas();
-    Array teste = new Array();
+    //Array teste = new Array();
+    //ListFruits teste = new ListFruits();
+    //InvertedWord teste = new InvertedWord();
+    //NumbersOddAndPair teste = new NumbersOddAndPair();
+    //MaxAndMinNumbers teste = new MaxAndMinNumbers();
+    BigName teste = new BigName();
+
 
   }
 

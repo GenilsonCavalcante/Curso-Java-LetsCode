@@ -1,12 +1,12 @@
 package com.letscode.Class06;
 
 public class JogoDaVelha {
-  public static void main(String[] args) {
+  public void main(String[] args) {
 
     /** Notes:
      _ | _ | _
      _ | _ | _
-     |   |
+       |   |
 
      Helpful Indices
      [0][0], [0][2], [0][4],
