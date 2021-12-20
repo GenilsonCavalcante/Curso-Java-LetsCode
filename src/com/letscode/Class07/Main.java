@@ -21,8 +21,8 @@ public class Main {
     BigDecimal salario = new BigDecimal(1200);
      */
 
-    Vendedor alguem = new Vendedor();
-    alguem.nome = "alguem";
+    //Vendedor alguem = new Vendedor();
+    //alguem.nome = "alguem";
 
     Gerente gerente = new Gerente("Genilson", 123123, new BigDecimal(1200));
 
